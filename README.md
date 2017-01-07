@@ -1,4 +1,4 @@
-![Icon](Akawain.svg)
+![Icon](./Akawain.png)
 
 # Akawain
 > Un logiciel des gestion des vins en C# avec .Net
