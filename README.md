@@ -1,3 +1,5 @@
+![Icon](resources/img/Akawain.svg)
+
 # Akawain
 > Un logiciel des gestion des vins en C# avec .Net
 
@@ -56,3 +58,9 @@ Les données se présente comme ceci :
   * Profile window
   * BONUS : Install window
 * Controller
+
+
+## Crédits
+
+* Icone raisins par [Freepik](http://www.flaticon.com/authors/freepik)
+* Arrière plan d'icone par [Daniel Foré](http://danrabbit.deviantart.com/)
